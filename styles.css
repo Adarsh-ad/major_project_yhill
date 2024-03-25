@@ -1,0 +1,78 @@
+/* Styles for Navigation Bar */
+.navbar {
+  background-color: #222;
+  font-family: 'Arial', sans-serif;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: #fff;
+}
+
+/* Styles for Main Content */
+/* Add your custom styles here */
+
+/* Styles for Footer */
+.footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+/* Styles for Testimonials Modals */
+.modal-content {
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+/* Styles for Contact Form */
+/* Add your custom styles here */
+
+.col-md-4{
+  display: flex;
+  text-align: center;
+  font-size: larger;
+  flex-direction: column;
+  
+}
+.Our{
+  display: flex;
+  font-size: x-large;
+  align-items: center;
+  flex-direction: column; 
+  background-color: gray;
+}
+.digi{
+  display: flex;
+  height: 100vh;
+   background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size:auto;
+  padding-bottom: 20px;
+}
+.col-md-6{
+
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+.form-group{
+  flex-direction: column;
+    text-align: center;
+  font-size: x-large;
+  background-color: gray;
+}
+.submit{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-size: larger;
+  background-color: #222;
+
+}
+.con{
+  display: flex;
+  padding-left: 300px;
+  background-color: gray;
+}
